@@ -11,6 +11,6 @@ public class MessageResource {
 	@GET
 	@Produces(MediaType.TEXT_PLAIN)
 	public String messages() {
-		return"Hello world 1 ";
+		return"Welcome to git world geervani";
 	}
 }
